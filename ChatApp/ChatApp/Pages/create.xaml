@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:ChatApp"
+             xmlns:custom="clr-namespace:ChatApp"
+             mc:Ignorable="d"
+             x:Class="ChatApp.Create">
+    <ContentPage.Content>
+        <Grid Margin="2">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+        
+            <BoxView Grid.Row="0" VerticalOptions="StartAndExpand" BackgroundColor="#60AFFE" HeightRequest="350" WidthRequest="350"/>
+
+            <StackLayout Grid.Row="1" BackgroundColor="White" Margin="5,0,5,5" VerticalOptions="StartAndExpand">
+                <custom:CustomEntry x:Name="username" Keyboard="Default" CornerRadius="10" IsCurvedCornersEnabled="True" BorderColor="Black" BorderWidth="3" HorizontalTextAlignment="Start" FontSize="16" Placeholder="Username" PlaceholderColor="LightGray" TextColor="Black" WidthRequest="10" VerticalOptions="Start" HorizontalOptions="FillAndExpand"/>
+                <custom:CustomEntry x:Name="email" Keyboard="Email" CornerRadius="10" IsCurvedCornersEnabled="True" BorderColor="Black" BorderWidth="3" HorizontalTextAlignment="Start" FontSize="16" Placeholder="Email" PlaceholderColor="LightGray" TextColor="Black" WidthRequest="10" VerticalOptions="Start" HorizontalOptions="FillAndExpand"/>
+
+                <Frame CornerRadius="10" IsClippedToBounds="True" BorderColor="Black" HeightRequest="37" WidthRequest="100" Margin="0,0,0,0" Padding="5">
+                    <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal" Padding="0" Margin="0,0,0,0">
+                        <custom:CustomEntry x:Name="pass" HorizontalOptions="FillAndExpand" BorderColor="Transparent" MaxLength="16" IsPassword="True" HorizontalTextAlignment="Start" FontSize="16" Placeholder="Password" PlaceholderColor="LightGray" TextColor="Black" WidthRequest="10" VerticalOptions="Start" Margin="0,0,0,0"/>
+                        <Button x:Name="button" TextColor="Black" BackgroundColor="LightGray" FontSize="10" Padding="0" FontAttributes="Bold" Margin="5,5,5,5" Text="Show" WidthRequest="60" CornerRadius="12" HeightRequest="30" Clicked="Pass_Clicked" HorizontalOptions="EndAndExpand"/>
+                    </StackLayout>
+                </Frame>
+
+                <Frame CornerRadius="10" IsClippedToBounds="True" BorderColor="Black" HeightRequest="37" WidthRequest="100" Margin="0,0,0,0" Padding="5">
+                    <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal" Padding="0" Margin="0,0,0,0">
+                        <custom:CustomEntry x:Name="conpass" HorizontalOptions="FillAndExpand" BorderColor="Transparent" MaxLength="16" IsPassword="True" HorizontalTextAlignment="Start" FontSize="16" Placeholder="Password" PlaceholderColor="LightGray" TextColor="Black" WidthRequest="10" VerticalOptions="Start" Margin="0,0,0,0"/>
+                        <Button x:Name="button2" TextColor="Black" BackgroundColor="LightGray" FontSize="10" Padding="0" FontAttributes="Bold" Margin="5,5,5,5" Text="Show" WidthRequest="60" CornerRadius="12" HeightRequest="30" Clicked="Pass_Clicked" HorizontalOptions="EndAndExpand"/>
+                    </StackLayout>
+                </Frame>
+
+                <Button x:Name="signup" Text="Sign up" Clicked="Signup_Clicked" TextColor="Black" BorderRadius="10" BorderWidth="1" BorderColor="LightGreen" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="LightGreen"/>
+                <Button x:Name="signin" Text="Sign in to your Account" Clicked="Main_CLicked" TextColor="Black" BorderRadius="10" BorderWidth="1" BorderColor="LightGray" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="LightGray"/>
+
+                <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal" Padding="0" Margin="0,0,0,0">
+                    <ImageButton Source="GoogleSignUp.png" Clicked="Google_Clicked" CornerRadius="5" BorderColor="LightGray" BorderWidth="1" WidthRequest="70" HeightRequest="30" HorizontalOptions="FillAndExpand"/>
+                    <ImageButton Source="FacebookSignUp.png" Clicked="Signup2_Clicked" CornerRadius="2" BorderWidth="2" BorderColor="White" WidthRequest="70" HeightRequest="30" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
