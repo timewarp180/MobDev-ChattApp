@@ -9780,7 +9780,10 @@ namespace ChatApp.Droid
 			public const int launcher_foreground = 2131492873;
 			
 			// aapt resource value: 0x7F0C000A
-			public const int PersonIcon = 2131492874;
+			public const int logo = 2131492874;
+			
+			// aapt resource value: 0x7F0C000B
+			public const int PersonIcon = 2131492875;
 			
 			static Mipmap()
 			{

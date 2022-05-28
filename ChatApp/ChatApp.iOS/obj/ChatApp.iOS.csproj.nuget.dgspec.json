@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj": {}
+    "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
         "projectName": "ChatApp.iOS",
-        "projectPath": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
-        "packagesPath": "C:\\Users\\Nicole Genon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nicole Genon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
-                "projectPath": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
+              "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
+                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp\\ChatApp.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp\\ChatApp.csproj",
         "projectName": "ChatApp",
-        "projectPath": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
-        "packagesPath": "C:\\Users\\Nicole Genon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp\\obj\\",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp\\ChatApp.csproj",
+        "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nicole Genon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -138,7 +138,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1630,24 +1630,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nicole Genon\\.nuget\\packages\\": {},
+    "C:\\Users\\Jason\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
       "projectName": "ChatApp.iOS",
-      "projectPath": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\Nicole Genon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nicole Genon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1661,8 +1661,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
-              "projectPath": "C:\\Users\\Nicole Genon\\source\\repos\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj"
+            "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp\\ChatApp.csproj": {
+              "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\MobDev-ChattApp\\ChatApp\\ChatApp\\ChatApp.csproj"
             }
           }
         }

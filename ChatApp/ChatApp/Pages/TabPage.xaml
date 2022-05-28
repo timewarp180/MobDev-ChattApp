@@ -25,7 +25,7 @@
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
 
-                <SearchBar x:Name="ColorSearch" TextChanged=""></SearchBar>
+                <SearchBar x:Name="ColorSearch"></SearchBar>
                 <ListView x:Name="SuggestionListView"></ListView>
                 <custom:CustomEntry x:Name="search" Grid.Row ="0" Keyboard="Default" CornerRadius="10" IsCurvedCornersEnabled="True" BorderColor="Black" BorderWidth="3" HorizontalTextAlignment="Start" FontSize="16" Placeholder="Search user email" PlaceholderColor="LightGray" TextColor="Black" WidthRequest="10" VerticalOptions="Start" HorizontalOptions="FillAndExpand"/>
                 
