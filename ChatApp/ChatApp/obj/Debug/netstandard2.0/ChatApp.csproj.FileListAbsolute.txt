@@ -1,0 +1,17 @@
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.deps.json
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.dll
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ref\ChatApp.dll
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.pdb
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csprojAssemblyReference.cache
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfoInputs.cache
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfo.cs
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.dll
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\create.xaml.g.cs
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\ResetPassword.xaml.g.cs
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\TabPage.xaml.g.cs
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.CoreCompileInputs.cache
